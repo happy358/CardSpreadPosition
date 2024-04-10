@@ -52,7 +52,7 @@ JSで移動位置量を計算して、CSS変数に設定する。
     
     animation: anim linear both;
     animation-timeline: view();
-    animation-range: entry 10% contain 45%;
+    animation-range: entry 25% contain 50%;
     transform-origin: center;
     transform: rotate3d(0, 0, 1, var(--card-angle))
         translate3d(var(--card-x), var(--card-y), 0);
