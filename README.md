@@ -66,17 +66,16 @@ JSで移動位置量を計算して、CSS変数に設定する。
 ```
  
  
-### NOTE  
+#### NOTE!  
 CSSにて次の３つの変数を使用している。（名前変更不可!）  
  
 - --card-angle   
 - --card-x   
 - --card-y   
- 
- 
+  
+  
 ## Options 
-お好みで、X値Y値をランダムにズラしたり、角度をランダムにつけたり、z-indexで表示順をランダムにしたりできる。 
- 
+  
 ```js
 cardSpreadPosition.run({
     element: ".card", // default: ".card"
@@ -86,3 +85,5 @@ cardSpreadPosition.run({
     randomOrder: false // true: random z-index , default: false
 });
 ```
+ 
+ お好みで、X値Y値をランダムにズラしたり、角度をランダムにつけたり、z-indexで表示順をランダムにしたりできる。 
