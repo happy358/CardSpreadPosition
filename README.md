@@ -6,7 +6,7 @@ JSで移動位置量を計算して、CSS変数に設定する。
  
 ## Demo 
 * demo 
-  [https://codepen.io/wakana-k/full/XWQEaGQ](https://codepen.io/wakana-k/full/XWQEaGQ)
+  [https://codepen.io/wakana-k/full/QWPraav](https://codepen.io/wakana-k/full/QWPraav)
  
  
 ## Usage 
