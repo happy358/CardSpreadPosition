@@ -5,10 +5,13 @@ JSで移動位置量を計算して、CSS変数に設定する。
  
  
 ## Demo 
-* demo 
+* demo1
   [https://codepen.io/wakana-k/full/QWPraav](https://codepen.io/wakana-k/full/QWPraav)
  
- 
+* demo2  
+  [https://codepen.io/wakana-k/full/eYorVJb](https://codepen.io/wakana-k/full/eYorVJb)  
+  
+  
 ## Usage 
 ### html:
 ```html
