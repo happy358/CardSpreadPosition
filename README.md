@@ -1,4 +1,4 @@
-# CardSpreadPosition 
+# CardSpreadPosition.js 
 
 画面スクロールで要素が中央から広がるCSSアニメーション用ライブラリ。  
 JSで移動位置量を計算して、CSS変数に設定する。
