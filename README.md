@@ -1,4 +1,7 @@
 # CardSpreadPosition 
+
+画面スクロールで要素が中央から広がるCSSアニメーション用ライブラリ。  
+JSで移動位置量を計算して、CSS変数に設定する。
  
  
 ## Demo 
@@ -63,7 +66,17 @@
 ```
  
  
+### NOTE  
+CSSにて次の３つの変数を使用している。（名前変更不可!）  
+ 
+- --card-angle   
+- --card-x   
+- --card-y   
+ 
+ 
 ## Options 
+お好みで、X値Y値をランダムにズラしたり、角度をランダムにつけたり、z-indexで表示順をランダムにしたりできる。 
+ 
 ```js
 cardSpreadPosition.run({
     element: ".card", // default: ".card"
