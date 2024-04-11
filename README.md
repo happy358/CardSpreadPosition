@@ -64,8 +64,8 @@ JSで移動位置量を計算して、CSS変数に設定する
 @keyframes anim {
     to {
         --card-x: 0px;
-        --card-y: 0px; /* if you like. */
-        --card-angle: 0deg; /* if you like. */
+        --card-y: 0px; /* if you want. */
+        --card-angle: 0deg; /* if you want. */
     }
 }
 ```
