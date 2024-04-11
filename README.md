@@ -46,11 +46,11 @@ JSで移動位置量を計算して、CSS変数に設定する
 }
 
 .card {
-    --card-x: 0px;
-    --card-y: 0px;
-    --card-angle: 0deg;
+    --card-x: 0px; /* auto set by CardSpreadPosition.js */
+    --card-y: 0px; /* auto set by CardSpreadPosition.js */
+    --card-angle: 0deg; /* auto set by CardSpreadPosition.js */
     
-    position: relative;
+    position: relative; /* or sticky */
     width: 200px;
     height: 200px;
     
@@ -64,7 +64,8 @@ JSで移動位置量を計算して、CSS変数に設定する
 @keyframes anim {
     to {
         --card-x: 0px;
-        --card-y: 0px;
+        --card-y: 0px; /* if you like. */
+        --card-angle: 0deg; /* if you like. */
     }
 }
 ```
