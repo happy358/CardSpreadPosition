@@ -2,6 +2,8 @@
 
 This is a JavaScript library to calculate the difference in pixels (px) between the current screen coordinate x-value of an element and the x-value of the screen center.
 
+![ScreenShot](./assets/ScreenShot.jpg?raw=true "CardSpreadPosition.js")
+
 画面スクロールで要素が中央から広がるCSSアニメーション用ライブラリ  
  
 JSでスクリーン座標xの中央値からの移動位置量を計算して、CSS変数に設定する
