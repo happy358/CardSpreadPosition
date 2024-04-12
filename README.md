@@ -8,12 +8,14 @@ JSでスクリーン座標xの中央値からの移動位置量を計算して�
  
  
 ## Demo 
-* demo1
+* demo1  
   [https://codepen.io/wakana-k/full/QWPraav](https://codepen.io/wakana-k/full/QWPraav)
  
 * demo2  
   [https://codepen.io/wakana-k/full/eYorVJb](https://codepen.io/wakana-k/full/eYorVJb)  
   
+* demo3  
+ [https://codepen.io/wakana-k/full/QWPxwGE](https://codepen.io/wakana-k/full/QWPxwGE)
   
 ## Usage 
 ### html:
